@@ -1,0 +1,36 @@
+_repo: Facts-and-fancies-in-modern-sciencespeculations-and-religious-belief_42466
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42466-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Dawson, John William, Sir
+    aliases:
+    - Dawson, Sir John William
+    - Dawson, J. W. (John William), Sir
+    - Dawson, J. William (John William), Sir
+    - Dawson, Sir J. William
+    - Dawson, William, Sir
+    birthdate: 1820
+    deathdate: 1899
+    gutenberg_agent_id: '40426'
+    url: http://www.gutenberg.org/2009/agents/40426
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Dawson
+description: ''
+gutenberg_issued: '2013-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42466'
+  lccn: '31009972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion and science'
+- !lcc 'BL'
+- !lcsh 'Evolution'
+title: "Facts and fancies in modern science\r\nStudies of the relations of science\
+  \ to prevalent speculations and religious belief"
+url: http://www.gutenberg.org/ebooks/42466
